@@ -1,0 +1,7 @@
+**/*/.idea
+.idea
+/**/*/.vscode
+*.log
+/charts/*/charts
+
+.github/configuration.json
