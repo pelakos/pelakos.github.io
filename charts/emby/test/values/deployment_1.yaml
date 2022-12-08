@@ -1,7 +1,0 @@
-additionalVolumeMounts:
-  - name: test
-    mountPath: /mnt
-additionalVolumes:
-  - name: test
-    persistentVolumeClaim:
-      claimName: testClaim
